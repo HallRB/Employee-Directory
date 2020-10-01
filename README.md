@@ -45,6 +45,7 @@ You are now ready to use the application.
     <h3>Usage</h3>
     <ul class="list-group">
     <li class="list-group-item"><video width="1000px" height="auto" constrols>
+      See file "./Assets/Code_Repo - Visual Studio Code 2020-09-30 21-57-08.mp4"
       <source src="./Assets/Code_Repo - Visual Studio Code 2020-09-30 21-57-08.mp4">
     </video></li>
     <h3>License</h3>
